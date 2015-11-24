@@ -43,6 +43,8 @@ OS X EI Capitan (10.11) is a nightmare.
 * [/usr/local permission](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/El_Capitan_and_Homebrew.md#if-usrlocal-does-not-exist)
 * [Rootless security](http://stackoverflow.com/questions/32891965/error-while-executing-gem-errnoeperm-operation-not-permitted)
 
+GitHub repo should be created first before deploying to Heroku.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
