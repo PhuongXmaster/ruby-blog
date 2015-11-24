@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](http://i.imgur.com/AOn2Ij9.gifv)
+![Video Walkthrough](https://github.com/PhuongXmaster/ruby-blog/blob/master/Blog.gif?raw=true)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
