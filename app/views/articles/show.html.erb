@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<div class="container">
+  <%= render @article %>
+
+  <nav class="navbar navbar-light bg-faded custom-nav">
+    <ul class="nav navbar-nav">
+      <li class="nav-item">
+        <%= link_to 'Back', articles_path, class: 'nav-link' %>
+      </li>
+    </ul>
+  </nav>
+
+</div>

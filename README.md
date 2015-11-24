@@ -1,12 +1,12 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Pre assignment*
 
-**Name of your app** is a Ruby on Rails blog application.
+**Articles** is a Ruby on Rails blog application.
 
-Submitted by: **Your Name Here**
+Submitted by: **Doan Hung Phuong**
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
-URL: **Insert your Heroku URL here**
+URL: https://mysterious-bastion-8755.herokuapp.com/articles
 
 ## User Stories
 
@@ -17,6 +17,7 @@ The following **required** functionality is complete:
 * [/] There is one post that introduces the App Creator with name, picture.
 
 The following **optional** features are implemented:
+
 * [ ] User can delete stories, with an alert that asks the user to confirm.
 * [ ] User can enter a search term and see all posts with titles that contain the search term.
 * [ ] User can add "tags" to a post, and filter posts by tag. 
@@ -32,13 +33,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](http://i.imgur.com/link/to/your/gif/file.gif)
+![Video Walkthrough](http://imgur.com/AOn2Ij9)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+OS X EI Capitan (10.11) is a nightmare.
+* [/usr/local permission](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/El_Capitan_and_Homebrew.md#if-usrlocal-does-not-exist)
+* [Rootless security](http://stackoverflow.com/questions/32891965/error-while-executing-gem-errnoeperm-operation-not-permitted)
 
 ## License
 
