@@ -1,4 +1,4 @@
-# Pre-work - *Pre assignment*
+# Pre-work - *Assignment*
 
 **Articles** is a Ruby on Rails blog application.
 
@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](http://imgur.com/AOn2Ij9)
+![Video Walkthrough](http://i.imgur.com/AOn2Ij9.gifv)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
